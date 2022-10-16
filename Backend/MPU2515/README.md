@@ -1,0 +1,1 @@
+On the Dev Board we replace the Crystal 8mhz with an Crystal 12mhz.
